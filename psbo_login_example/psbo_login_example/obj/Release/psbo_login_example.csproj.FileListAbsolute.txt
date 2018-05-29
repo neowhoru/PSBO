@@ -1,0 +1,9 @@
+c:\users\karl\documents\visual studio 2017\Projects\psbo_login_example\psbo_login_example\bin\Release\psbo_login_example.exe.config
+c:\users\karl\documents\visual studio 2017\Projects\psbo_login_example\psbo_login_example\bin\Release\psbo_login_example.exe
+c:\users\karl\documents\visual studio 2017\Projects\psbo_login_example\psbo_login_example\bin\Release\psbo_login_example.pdb
+c:\users\karl\documents\visual studio 2017\Projects\psbo_login_example\psbo_login_example\obj\Release\psbo_login_example.Form1.resources
+c:\users\karl\documents\visual studio 2017\Projects\psbo_login_example\psbo_login_example\obj\Release\psbo_login_example.Properties.Resources.resources
+c:\users\karl\documents\visual studio 2017\Projects\psbo_login_example\psbo_login_example\obj\Release\psbo_login_example.csproj.GenerateResource.cache
+c:\users\karl\documents\visual studio 2017\Projects\psbo_login_example\psbo_login_example\obj\Release\psbo_login_example.csproj.CoreCompileInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\psbo_login_example\psbo_login_example\obj\Release\psbo_login_example.exe
+c:\users\karl\documents\visual studio 2017\Projects\psbo_login_example\psbo_login_example\obj\Release\psbo_login_example.pdb
